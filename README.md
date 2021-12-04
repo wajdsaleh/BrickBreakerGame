@@ -3,8 +3,8 @@ A simple game developed by me for -IT214- course project and supervised by T.Mes
 I developed this game using Java programming language. 
 This game has simple rules ; 
 1- Break all the bricks.
-2- Try to prevent the ball from falling.
-and it is fully controlled by the keyboard.
+2- Try to prevent the ball from falling
+,It is fully controlled by the keyboard.
 
 
 # How the game works?
