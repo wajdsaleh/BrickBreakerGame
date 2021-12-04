@@ -240,7 +240,7 @@ public void paint(Graphics g){//resive graphic object to draw the ball and every
             Ballpos_x = 400;
             Ballpos_y = 350;
             
-            if(win==1 && rows<=10){//New Levels, last level will be 10 rows then it will return to the first level
+            if(win==1 && rows<10){//New Levels, last level will be 10 rows then it will return to the first level
                 rows++;//extra rows
                 TotalBricks = rows*cols;
                 Brick = new Bricks(rows,cols);
