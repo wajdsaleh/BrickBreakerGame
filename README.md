@@ -1,6 +1,6 @@
 # BrickBreakerGame
 A simple game developed by me for -IT214- course project and supervised by T.Meshaiel Alshuail, 
-I developed this game using Java programming language, 
+I developed this game using Java programming language. 
 This game has simple rules ; 
 1- Break all the bricks.
 2- Try to prevent the ball from falling.
