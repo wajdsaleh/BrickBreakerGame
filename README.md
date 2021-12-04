@@ -23,11 +23,14 @@ Awais Mirza on YouTube.
 T.Meshaiel Alshuail for course: IT214 in Qassim University.
 
 When the player loses and press esc to end the game.
-https://user-images.githubusercontent.com/74684120/144721135-c7efe708-e39d-42c5-8925-455c0b2a3a3d.mp4
 
-
+https://user-images.githubusercontent.com/74684120/144721615-dfd80bd2-4248-4160-9221-eda45c957e3b.mov
 
 When the player wins.
+
+
+https://user-images.githubusercontent.com/74684120/144721629-4f889af2-b8fe-4969-809b-8d9281b77fb5.mov
+
 
 
 
