@@ -22,6 +22,7 @@ Awais Mirza on YouTube.
 # SuperVision 
 T.Meshaiel Alshuail for course: IT214 in Qassim University.
 
+# The Output
 When the player loses and press esc to end the game.
 
 https://user-images.githubusercontent.com/74684120/144721615-dfd80bd2-4248-4160-9221-eda45c957e3b.mov
