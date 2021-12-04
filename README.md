@@ -16,7 +16,7 @@ If the player lost, the game will restart again with the first level.
 # Concepts I used
 I used inheritance for class, implementation for interfaces and a whole GUI. 
 
-# References
+# Resources
 Awais Mirza on YouTube.
 
 # SuperVision 
