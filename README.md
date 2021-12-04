@@ -16,6 +16,9 @@ This game has simple rules ;
 2- Try to prevent the ball from falling
 and It is fully controlled by the keyboard.
 
+# Development 
+There are a lot of things that I want to add soon like a better GUI, pause and resume.
+
 # Concepts I used
 I used inheritance for class, implementation for interfaces and a whole GUI. 
 
