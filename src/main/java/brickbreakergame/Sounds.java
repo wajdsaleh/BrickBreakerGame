@@ -11,7 +11,9 @@ import javax.sound.sampled.UnsupportedAudioFileException;
 public class Sounds {
     
     private void  background() throws UnsupportedAudioFileException, IOException, LineUnavailableException{
-    
+    /*after downloading the audio from https://drive.google.com/drive/folders/1aLILa8-vtFQCiJSusloJsqKYN022jR2J?usp=sharing
+    please make sure that the audio downloaded in the same folder as the code and here it should
+    have the same name*/
     File file1 = new File("BSC_State_of_Mind_Squadda_B.wav");  
      AudioInputStream audio1 = AudioSystem.getAudioInputStream(file1);
      Clip clip1 = AudioSystem.getClip();
