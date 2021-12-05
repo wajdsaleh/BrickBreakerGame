@@ -208,6 +208,7 @@ public void paint(Graphics g){//resive graphic object to draw the ball and every
         System.exit(0);}
         
         if(ke.getKeyCode()== KeyEvent.VK_SPACE){
+           BallSpeed.start();
         start = 1;}//for the instructions to hide 
         
         if(play){
